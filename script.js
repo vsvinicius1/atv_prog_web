@@ -1,6 +1,5 @@
 // ===== CONFIGURAÇÃO DO JOGO =====
 
-// Os 8 emojis (cada um aparece 2 vezes = 16 cartas no total)
 const EMOJIS = ['🐶', '🐱', '🦊', '🐸', '🦁', '🐧', '🦋', '🌸'];
 
 // ===== VARIÁVEIS DE ESTADO =====
