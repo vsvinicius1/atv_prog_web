@@ -41,4 +41,4 @@ MIT License — veja o arquivo [LICENSE](LICENSE).
 
 ---
 
-Desenvolvido por [Seu Nome] — GAC116 Programação Web 2026/1
+Desenvolvido por Vinicius Passos — GAC116 Programação Web 2026/1
